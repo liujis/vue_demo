@@ -18,7 +18,7 @@
       </div>
       <!-- 内容区域 -->
       <div class="layout-content">
-        内容区域
+        <RouterView />
       </div>
     </section>
   </div>

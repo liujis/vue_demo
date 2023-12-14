@@ -1,0 +1,20 @@
+export type ComponentType = 
+  | 'el-autocomplete'
+  | 'el-cascader'
+  | 'el-checkbox'
+  | 'el-color-picker'
+  | 'el-date-picker'
+  | 'el-input'
+  | 'el-input-number'
+  | 'el-radio'
+  | 'el-rate'
+  | 'el-select'
+  | 'el-select-v2'
+  | 'el-slider'
+  | 'el-switch'
+  | 'el-time-picker'
+  | 'el-time-select'
+  | 'el-transfer'
+  | 'el-upload'
+
+  

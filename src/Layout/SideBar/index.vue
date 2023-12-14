@@ -38,7 +38,7 @@
 </script>
 
 <style lang="scss" scoped>
-  ::v-deep .el-menu-item {
+  :deep(.el-menu-item) {
     &:hover {
       color: #FFF;
     }
@@ -46,7 +46,7 @@
       background-color: #0960bd;
     }
   }
-  ::v-deep .el-sub-menu__title {
+  :deep(.el-sub-menu__title) {
     &:hover {
       color: #FFF;
     }
